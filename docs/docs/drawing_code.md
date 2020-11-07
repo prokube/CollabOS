@@ -1,5 +1,5 @@
-# Bracth 
-Bracth is a scrath batch processing language used to draw. It's executed with the [bratch compiler](https://scratch.mit.edu/projects/409152297/) and is the first language of the CollabOs project
+# Bratch 
+Bratch is a Scratch batch processing language used to draw. It's executed with the [bratch compiler](https://scratch.mit.edu/projects/409152297/) and is the first language of the CollabOs project
 ### Useful information
 - The bratch file extension is ``.br``
 - The default value of an optional argument is 0. 
