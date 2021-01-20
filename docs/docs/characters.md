@@ -1,8 +1,8 @@
 # Special characters for the CollabOS
-*you shouldn't use this characters for anything else that what they are ment or something could break*</br>
-*all the examples are from CollabOs projects*
+*You shouldn't use these characters for anything other than what they are meant for, or something could break in the Scratch Project*</br>
+*All of the examples are from CollabOs projects*
 ### ``◘`` Meta data separator
-In a formated text separates the meta data from the text:
+In a formatted text, separates the meta data from the text:
 ```
 ◘color:20◘Hey how are you◘size:23:color:yellow◘
 ```
@@ -18,12 +18,12 @@ Separates the different instances in a list (only used for instances that use a 
 5 ──prompt
 ```
 ### ``¶`` Line break 
-It represents the end of a line
+Represents the end of a line
 ```
 My name is:¶wamu_M
 ```
 ### ``¤`` Error code
-it's followed by 3 numbers that represent an error (check the [error codes documentation](https://github.com/wamuM/docs/blob/master/Scratch/error_codes.md))
+This character is followed by 3 numbers that represent an error code (check the [error codes documentation](https://github.com/wamuM/docs/blob/master/Scratch/error_codes.md))
 ```
 ! exit
 ¤103
